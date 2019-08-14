@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+    </default>
+    <PRODUCT_TYPE_simple>
+        <reference name="product.info.simple.extra">
+            <block type="catalog/product_view" name="bsd" template="bsd/bsd.phtml" />
+        </reference>
+    </PRODUCT_TYPE_simple>
+</layout> 

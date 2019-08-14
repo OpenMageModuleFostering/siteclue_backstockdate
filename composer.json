@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/SiteClue_BackStockDate",
+    "type": "magento-module",
+    "license": "Academic-Free-License",
+    "homepage": "",
+    "description": "Back in stock date show the date when your “Out of Stock” product is back to “In Stock” in product  page.",
+    "authors": [
+    {
+        "name": "Site Clue",
+        "email": "siteclue@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

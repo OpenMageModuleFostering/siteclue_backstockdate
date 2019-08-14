@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+    <name>SiteClue_BackStockDate</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/academic.php">Academic Free License</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Back in stock date show the date when your &#x201C;Out of Stock&#x201D; product is back to &#x201C;In Stock&#x201D; in product  page.</summary>
+    <description>Do you want to get back the customers who left your shopping cart due to out of stock products? &#xD;
+Show Back in stock date to your customers in product details page</description>
+    <notes>Do you want to get back the customers who left your shopping cart due to out of stock products? &#xD;
+Show Back in stock date to your customers in product details page</notes>
+    <authors><author><name>Site Clue</name><user>SiteClue</user><email>siteclue@gmail.com</email></author></authors>
+    <date>2014-09-03</date>
+    <time>08:23:26</time>
+    <contents><target name="magecommunity"><dir name="SiteClue"><dir name="Bsd"><dir name="Block"><file name="Bsd.php" hash="e3526c20e4c7dca1264caacf72285e61"/></dir><dir name="etc"><file name="config.xml" hash="4382f99ff4bc9b738db60f03eb883262"/></dir><dir name="sql"><dir name="siteclue_bsd_setup"><file name="mysql4-install-0.1.0.php" hash="f9f92062f0c4deef0ae2804ff7ff7632"/><file name="mysql4-upgrade-0.1.0-1.0.0.php" hash="3e336bb5b01ba2289be9dc6baa0696dc"/></dir></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="bsd.xml" hash="23c0a33bf593f4657f058c19cccf7ce2"/></dir><dir name="template"><dir name="bsd"><file name="bsd.phtml" hash="3297a4ea1d922a03cc751f02c8014031"/></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="SiteClue_Bsd.xml" hash="c0bac5fa2f3a5d3c1e4789bdf1e5460a"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
